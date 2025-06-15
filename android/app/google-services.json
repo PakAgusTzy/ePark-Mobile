@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "344504725295",
+    "firebase_url": "https://epark-mobile-52539-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "epark-mobile-52539",
+    "storage_bucket": "epark-mobile-52539.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344504725295:android:94896b18741eefffc43bda",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADeAI3SbSifViIs1G9_UUEZYN0iMZZ1T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

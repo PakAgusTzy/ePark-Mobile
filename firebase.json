@@ -1,0 +1,40 @@
+{
+  "emulators": {
+    "dataconnect": {
+      "dataDir": "dataconnect/.dataconnect/pgliteData"
+    }
+  },
+  "dataconnect": {
+    "source": "dataconnect"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "epark-mobile-52539",
+          "appId": "1:344504725295:android:94896b18741eefffc43bda",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "epark-mobile-52539",
+          "configurations": {
+            "android": "1:344504725295:android:94896b18741eefffc43bda",
+            "ios": "1:344504725295:ios:97bfb60d393f5c56c43bda",
+            "macos": "1:344504725295:ios:97bfb60d393f5c56c43bda",
+            "web": "1:344504725295:web:76a7c0e34729c340c43bda",
+            "windows": "1:344504725295:web:8d69ffff470e6494c43bda"
+          }
+        }
+      }
+    }
+  }
+}
