@@ -1,6 +1,6 @@
-# flutter_application_1
+# ePark-Mobile
 
-A new Flutter project.
+A Parking system Flutter based project with firebase integration
 
 ## Getting Started
 
